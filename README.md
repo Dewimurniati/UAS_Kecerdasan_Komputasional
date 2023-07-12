@@ -1,5 +1,5 @@
 # UAS Kecerdasan Komputasional
 
-## Nama		: Rizal Akbar Fitrianto
-## NIM		: 23420001
+## Nama		: Dewi Murniati
+## NIM		: 23420017
 ## Prodi	: Teknik Informatika 20 B
